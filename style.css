@@ -8,5 +8,13 @@
 }
 
 section {
-  padding-top: 3rem;
+  padding-top: 2rem;
+}
+
+.gallery-img {
+  width: 100%;
+}
+
+#gallery .row > * {
+  padding: 0;
 }
